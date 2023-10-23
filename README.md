@@ -1,0 +1,2 @@
+# Raindrop
+Cowin Buddy is your reliable companion in the quest for vaccination slots. This innovative app runs in the background, continuously scanning for vacant vaccination slots based on your chosen state and district. With Cowin Buddy, you'll receive timely notifications when a slot becomes available, making the process of securing your COVID-19 vaccination quick and efficient. Stay one step ahead with Cowin Buddy and protect yourself and your community.
